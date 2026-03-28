@@ -11,13 +11,13 @@ El router realiza el enrutamiento entre VLANs mediante subinterfaces y encapsula
 
 La red está compuesta por:
 
-1 Router
-1 Switch
-3 VLANs
-3 Equipos finales
-Enlace trunk entre switch y router
+- 1 Router
+- 1 Switch
+- 3 VLANs
+- 3 Equipos finales
+- Enlace trunk entre switch y router
 
-![topologia](topologia.png)
+![topologia](img/topologia.png)
 
 ## 🧩 Diseño de red
 
@@ -70,16 +70,16 @@ Para verificar el funcionamiento de la red se han realizado las siguientes prueb
 - Comprobación de subinterfaces en el router
 - Ping entre equipos de diferentes VLANs
 - Traceroute para verificar el paso por el router
-  ### VLANs configuradas
+## VLANs configuradas
 ![VLAN](img/show-vlan-brief.png)
-### Enlace trunk
+## Enlace trunk
 ![Trunk](img/show-interfaces-trunk.png)
-### Interfaces del router
+## Interfaces del router
 ![Interfaces](img/show-ip-interface-brief.png)
 ## Ping entre VLANs
-![ping](ping.png)
+![ping](img/ping.png)
 ## Traceroute
-![traceroute](traceroute.png)
+![traceroute](img/traceroute.png)
 
 Las pruebas confirman que existe conectividad entre las distintas VLANs y que el router enruta correctamente el tráfico entre ellas.
 
