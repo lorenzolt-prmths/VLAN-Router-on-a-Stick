@@ -1,4 +1,4 @@
-🖧 Inter-VLAN Routing (Router on a Stick)
+##Inter-VLAN Routing (Router on a Stick)
 📌 Descripción
 
 En este proyecto se ha implementado una red segmentada mediante VLANs para separar diferentes departamentos de una empresa (Administración, Ventas e IT).
@@ -6,7 +6,7 @@ Para permitir la comunicación entre las distintas VLANs se ha configurado Inter
 
 El router realiza el enrutamiento entre VLANs mediante subinterfaces y encapsulación IEEE 802.1Q, mientras que el switch gestiona la segmentación de la red mediante VLANs y enlaces trunk.
 
-🗺️ Topología de red
+##🗺️ Topología de red
 
 La red está compuesta por:
 
