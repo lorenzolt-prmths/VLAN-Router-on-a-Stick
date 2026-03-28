@@ -23,7 +23,7 @@ La red está compuesta por:
 
 La red se ha dividido en tres VLANs correspondientes a distintos departamentos:
 
--V LAN	Departamento	Red
+- V LAN	Departamento	Red
 - 10	ADMIN	192.168.10.0/24
 - 20	VENTAS	192.168.20.0/24
 - 30	IT	192.168.30.0/24
