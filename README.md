@@ -63,30 +63,30 @@ PC-IT	192.168.30.10	192.168.30.1
 
 Para verificar el funcionamiento de la red se han realizado las siguientes pruebas:
 
-Comprobación de VLANs en el switch
-Comprobación del enlace trunk
-Comprobación de subinterfaces en el router
-Ping entre equipos de diferentes VLANs
-Traceroute para verificar el paso por el router
-Ping entre VLANs
+- Comprobación de VLANs en el switch
+- Comprobación del enlace trunk
+- Comprobación de subinterfaces en el router
+- Ping entre equipos de diferentes VLANs
+- Traceroute para verificar el paso por el router
+- Ping entre VLANs
 
 Traceroute
 
 Las pruebas confirman que existe conectividad entre las distintas VLANs y que el router enruta correctamente el tráfico entre ellas.
 
 ## 🛠️ Tecnologías utilizadas
--Cisco Packet Tracer
--VLAN
--Trunking
--Inter-VLAN Routing
--Router on a Stick
--Redes LAN
--Routing
+- Cisco Packet Tracer
+- VLAN
+- Trunking
+- Inter-VLAN Routing
+- Router on a Stick
+- Redes LAN
+- Routing
 ## 🎯 Objetivos del proyecto
--Segmentar una red mediante VLANs
--Configurar puertos access
--Configurar enlace trunk
--Implementar Inter-VLAN Routing
--Configurar subinterfaces en router
--Permitir comunicación entre VLANs
--Verificar conectividad mediante ping y traceroute
+- Segmentar una red mediante VLANs
+- Configurar puertos access
+- Configurar enlace trunk
+- Implementar Inter-VLAN Routing
+- Configurar subinterfaces en router
+- Permitir comunicación entre VLANs
+- Verificar conectividad mediante ping y traceroute
