@@ -1,5 +1,5 @@
-🖧 Inter-VLAN Routing (Router on a Stick)
-📌 Descripción
+##Inter-VLAN Routing (Router on a Stick)
+##📌 Descripción
 
 En este proyecto se ha diseñado e implementado una red segmentada mediante VLANs para separar distintos departamentos de una empresa (Administración, Ventas e IT).
 
